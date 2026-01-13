@@ -30,7 +30,7 @@ Profit:               $0.01 per share (1.01%)
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/terauss/Polymarket-trading-bot-15min-BTC/blob/main/README.md
+git clone https://github.com/terauss/Polymarket-trading-bot-15min-BTC
 cd Polymarket-trading-bot-15min-BTC
 ```
 
